@@ -1,0 +1,12 @@
+{
+  "name": "jnakatani/328/hello",
+  "authors": [
+    {
+      "name": "Joshua Nakatani",
+      "email": "nakatani.joshua@student.greenriver.edu"
+    }
+  ],
+  "requre": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
